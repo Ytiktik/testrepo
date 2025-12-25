@@ -1,6 +1,4 @@
 # testrepo
 
-This is test repo a test repo.
+Molotov
 For more information go to https://wikipedia.com 
-
-Hello! 
