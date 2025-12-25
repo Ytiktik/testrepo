@@ -1,5 +1,5 @@
-# testrepo
+# meth
 
-Molotov
+meth recipe
 For more information go to https://wikipedia.com 
-Molotov
+meth recipe 
